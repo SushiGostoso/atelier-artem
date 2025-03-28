@@ -80,12 +80,12 @@ header a:hover {
       .container {
         height: 85vh;
         display: flex;
-        gap: 10px;
+        gap: 20px;
         padding-top: 15vh;
         justify-content: space-between;
         align-items: center;
-        padding-left: 15vh;
-        padding-right: 15vh;
+        padding-left: 40vh;
+        padding-right: 40vh;
       }
   
       .image-container {
@@ -205,11 +205,11 @@ footer {
 }
 .box1 {
   font-family: 'Press Start 2P', monospace;
-  font-size: 3.0em;
+  font-size: 2.0em;
   text-align: center;
   line-height: 1.5;
   color: #333;
-  padding: 50px;
+  padding: 40px;
   border-width: 6px;
   border-style: dashed;
   border-color: #000;
