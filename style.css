@@ -44,7 +44,7 @@ header a {
     color: black;
     text-decoration: none;
     font-family: 'Inverse Mono', monospace;
-    font-size: 2rem; /* Ajusta para comportamento de bloco */
+    font-size: 3rem; /* Ajusta para comportamento de bloco */
     padding-right: 10px;
 }
 
@@ -90,8 +90,8 @@ header a:hover {
   
       .image-container {
         position: relative;
-        width: 350px;
-        height: 420px;
+        width: 300px;
+        height: 380px;
         perspective: 1000px;
       }
   
